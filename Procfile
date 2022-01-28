@@ -1,0 +1,1 @@
+web: gurnicorn main_file:app
